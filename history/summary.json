@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Taipower Dashboard",
+    "url": "https://taipower.pages.dev",
+    "icon": "https://taipower.pages.dev/favicon.ico",
+    "slug": "taipower-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Taipower API",
+    "url": "https://taipower-api.jacob.workers.dev",
+    "icon": "https://workers.cloudflare.com/favicon.ico",
+    "slug": "taipower-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1268,
+    "timeDay": 1268,
+    "timeWeek": 1268,
+    "timeMonth": 1268,
+    "timeYear": 1268,
+    "dailyMinutesDown": {}
+  }
+]
