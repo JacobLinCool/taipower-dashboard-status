@@ -15,9 +15,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /taipower-dashboard-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "[** Taipower Dashboard **](https://github.com/JacobLinCool/taipower-dashboard) 及 [** Taipower API **](https://github.com/JacobLinCool/taipower-api) 的運作情況"
+  logoUrl: https://taipower.pages.dev/logo.png
+  name: Taipower Dashboard Status
+  introTitle: "[**Taipower Dashboard**](https://github.com/JacobLinCool/taipower-dashboard) 及 [**Taipower API**](https://github.com/JacobLinCool/taipower-api) 的運作情況"
   introMessage: ""
   navbar:
     - title: 運作狀態
@@ -26,3 +26,12 @@ status-website:
       href: https://taipower.pages.dev
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 */1 * * *"
+  responseTime: "0 */1 * * *"
+  staticSite: "0 */1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 */1 * * *"
+  uptime: "*/5 * * * *"
