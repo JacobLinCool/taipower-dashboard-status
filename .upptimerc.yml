@@ -21,7 +21,7 @@ status-website:
   introMessage: ""
   navbar:
     - title: 運作狀態
-      href: /
+      href: /taipower-dashboard-status
     - title: Taipower Dashboard
       href: https://taipower.pages.dev
 # Upptime also supports notifications, assigning issues, and more
