@@ -24,8 +24,6 @@ status-website:
       href: /taipower-dashboard-status
     - title: Taipower Dashboard
       href: https://taipower.pages.dev
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
   graphs: "0 */1 * * *"
@@ -35,3 +33,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 */1 * * *"
   uptime: "*/5 * * * *"
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
